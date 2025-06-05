@@ -71,21 +71,21 @@ Bootstrap (UI Styling)
 /dashboard/: Admin panel for diagnostics & health monitoring
 
 📽️ Demo Video: 
-This video covers:
+This video covers:https://drive.google.com/drive/folders/1dOgE1efeTL1K8N6aWlwTQYV8KojU7-KB?usp=sharing
 
-Installation & setup
-File upload and chunk distribution
-Monitoring system health
-Troubleshooting common issues
+1. Installation & setup
+2. File upload and chunk distribution
+3. Monitoring system health
+4. Troubleshooting common issues
 
 📌 How to Run
-git clone https://github.com/your-username/bytenode.git
-cd bytenode
-pip install -r requirements.txt
-python manage.py migrate
-python manage.py runserver
+-- git clone https://github.com/your-username/bytenode.git
+-- cd bytenode
+-- pip install -r requirements.txt
+-- python manage.py migrate
+-- python manage.py runserver
 
-Ensure IPFS daemon or simulation is running on designated ports.
+# Ensure IPFS daemon or simulation is running on designated ports.
 
 
 🤝 Contributions
