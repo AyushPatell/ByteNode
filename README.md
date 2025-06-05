@@ -36,23 +36,22 @@ Visual indicators of chunk redundancy and overall storage health across nodes.
 
 5. File Details
 Detailed view showing file info, IPFS hashes, chunk size, and distribution across nodes.
-![5](https://github.com/user-attachments/assets/6277549c-0739-4174-b3b7-d44f8e7edbec)
-
-6. Django Admin Interface
-Backend interface to manage nodes, file chunks, users, and distributions via Django.
 ![6](https://github.com/user-attachments/assets/19b45345-77c6-49f4-af6d-d50b38b0f631)
 
-7. Node Diagnostic Tool
-Allows testing, adding, and configuring new IPFS nodes with storage details.
+7. Django Admin Interface
+Backend interface to manage nodes, file chunks, users, and distributions via Django.
 ![7](https://github.com/user-attachments/assets/266a0142-fea6-4115-afec-a81fdd7eb1d2)
 
-8. Upload File Interface
-Real-time visual feedback during file upload and distribution across the system.
+8. Node Diagnostic Tool
+Allows testing, adding, and configuring new IPFS nodes with storage details.
 ![8](https://github.com/user-attachments/assets/5a467743-ebe9-412d-84ea-dbea5b835846)
 
-9. System Node List
-Table listing all IPFS nodes with their status, storage load, and diagnostics.
+10. Upload File Interface
+Real-time visual feedback during file upload and distribution across the system.
 ![9](https://github.com/user-attachments/assets/b564d9c2-2db6-4d61-bfc2-c461dca7a9b8)
+
+11. System Node List
+Table listing all IPFS nodes with their status, storage load, and diagnostics.
 
 
 ⚙️ Technologies Used
