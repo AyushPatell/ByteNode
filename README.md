@@ -70,7 +70,7 @@ Bootstrap (UI Styling)
 
 /dashboard/: Admin panel for diagnostics & health monitoring
 
-📽️ Demo Video: https://drive.google.com/drive/folders/1dOgE1efeTL1K8N6aWlwTQYV8KojU7-KB?usp=sharing
+📽️ Demo Video: (https://drive.google.com/file/d/1UO-gT6pWum3ybxsPRlcNLW4ON0MNY6m8/view?usp=sharing)
 
 This video covers:
 1. Installation & setup
